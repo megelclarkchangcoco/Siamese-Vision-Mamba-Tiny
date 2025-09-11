@@ -1,0 +1,22 @@
+torch>=2.6.0; platform_system!="Windows"
+torch==2.6.0+cu124; platform_system=="Windows"  # if using NVIDIA CUDA 12.4 build
+torchvision>=0.21.0
+timm==1.0.19
+opencv-python
+numpy
+scikit-learn
+matplotlib
+tqdm
+pillow
+huggingface-hub
+tensorboard
+flask
+datasets 
+transformers
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+
+
+

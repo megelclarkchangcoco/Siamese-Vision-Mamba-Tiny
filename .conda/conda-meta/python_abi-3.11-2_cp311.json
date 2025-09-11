@@ -1,0 +1,33 @@
+{
+  "name": "python_abi",
+  "version": "3.11",
+  "build": "2_cp311",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "win-64",
+  "fn": "python_abi-3.11-2_cp311.tar.bz2",
+  "md5": "cb157e2642607f3c79240dfe8d95a738",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.11-2_cp311.tar.bz2",
+  "sha256": "ca6474d6604f47c19b712b41b0377cfeef67a49d6a132c7851eed71ff0ccb55e",
+  "depends": [
+    "python 3.11.*"
+  ],
+  "constrains": [
+    "pypy <0a0"
+  ],
+  "license": "BSD-3-Clause",
+  "timestamp": 1666687699000,
+  "size": 5083,
+  "requested_spec": "None",
+  "package_tarball_full_path": "c:\\Users\\megel\\miniconda3\\pkgs\\python_abi-3.11-2_cp311.tar.bz2",
+  "extracted_package_dir": "c:\\Users\\megel\\miniconda3\\pkgs\\python_abi-3.11-2_cp311",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "c:\\Users\\megel\\miniconda3\\pkgs\\python_abi-3.11-2_cp311",
+    "type": 1
+  }
+}

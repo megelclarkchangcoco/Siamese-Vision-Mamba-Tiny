@@ -1,0 +1,34 @@
+{
+  "name": "cpython",
+  "version": "3.11.13",
+  "build": "py311hd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "cpython-3.11.13-py311hd8ed1ab_0.conda",
+  "md5": "4666fd336f6d48d866a58490684704cd",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.11.13-py311hd8ed1ab_0.conda",
+  "sha256": "ab70477f5cfb60961ba27d84a4c933a24705ac4b1736d8f3da14858e95bbfa7a",
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "python_abi * *_cp311"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "Python-2.0",
+  "package_type": "noarch_generic",
+  "timestamp": 1749048148000,
+  "size": 47495,
+  "requested_spec": "None",
+  "package_tarball_full_path": "c:\\Users\\megel\\miniconda3\\pkgs\\cpython-3.11.13-py311hd8ed1ab_0.conda",
+  "extracted_package_dir": "c:\\Users\\megel\\miniconda3\\pkgs\\cpython-3.11.13-py311hd8ed1ab_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "c:\\Users\\megel\\miniconda3\\pkgs\\cpython-3.11.13-py311hd8ed1ab_0",
+    "type": 1
+  }
+}

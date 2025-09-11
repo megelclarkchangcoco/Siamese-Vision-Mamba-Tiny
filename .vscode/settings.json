@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\megel\\miniconda3\\envs\\sigvmamba311\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "jupyter.jupyterServerType": "local",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "python.analysis.extraPaths": ["./src"]
+}

@@ -1,0 +1,12 @@
+prefix=c:/Users/megel/Documents/signature-mamba/.conda/Library
+exec_prefix=c:/Users/megel/Documents/signature-mamba/.conda/Library
+libdir=c:/Users/megel/Documents/signature-mamba/.conda/Library/lib
+includedir=c:/Users/megel/Documents/signature-mamba/.conda/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
